@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dia2dump", "dia2dump\dia2dump.vcxproj", "{A8327CE2-200E-43E8-BB2C-44146F988A94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8327CE2-200E-43E8-BB2C-44146F988A94}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A8327CE2-200E-43E8-BB2C-44146F988A94}.Debug|Win32.Build.0 = Debug|Win32
+		{A8327CE2-200E-43E8-BB2C-44146F988A94}.Release|Win32.ActiveCfg = Release|Win32
+		{A8327CE2-200E-43E8-BB2C-44146F988A94}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
