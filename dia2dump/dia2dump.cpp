@@ -5,6 +5,8 @@
 //---------------------------------------------------------------
 //
 
+/* Hello */
+
 #include <atlbase.h>
 #include <psapi.h>
 #include <dia2.h>
